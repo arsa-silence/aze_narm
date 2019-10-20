@@ -1,0 +1,20 @@
+body{
+    background: red;
+    font-size: 20px;
+    color: blue;
+    text-align: right;
+}
+#h6{
+    background: yellow;
+    color: violet;
+}
+
+.h6tag{
+    background: yellow;
+    color: violet;
+ } 
+ .listtest li{
+        display: inline;
+    }
+
+

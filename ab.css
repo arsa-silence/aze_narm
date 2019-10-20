@@ -1,0 +1,20 @@
+body{
+    direction: rtl
+}
+header{
+    height: 200px;
+    background-color: blue
+}
+main{
+    height: 600px;
+    background-color: red
+}
+footer{
+    height: 100px;
+    background-color:yellow
+}
+.listtest{
+    display:inline-flex;
+}
+.listtest li{
+    display: inline-flex;}
